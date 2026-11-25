@@ -57,3 +57,13 @@ Por ultimo, te iba a pedir si por cada que vayas pasando aparezca una imagen dif
 - **Parte utilizada:** Se conservaron ConvivIA, las pruebas con Arduino y sensores, y la edición audiovisual, porque son actividades que Uriel había comentado.
 - **Cambios realizados:** Se eliminaron de la sección principal los demás proyectos e ideas y se agregó en cada tarjeta un apartado «Mi aporte». Las descripciones se redactaron con cautela para no presentar actividades de aprendizaje como productos terminados.
 - **¿Qué comprendí?:** En un portfolio no alcanza con contar de qué trata un proyecto; también es importante explicar qué tareas realicé y cuál fue mi participación.
+
+## Consulta 6: corrección de estructura y adaptación del sitio
+- **Fecha:** 25/11/2026
+- **Herramienta utilizada:** ChatGPT.
+- **Objetivo:** Corregir las rutas de los archivos y aplicar una mejora de funcionamiento/adaptación y otra de contenido/diseño.
+- **Indicación:** «corregime vos los errores en los archivos y los subo denuevo».
+- **Parte utilizada:** Se reorganizó la hoja de estilos en `css/estilos.css` y se ajustó el HTML para que no dependa de una imagen externa que no estaba incluida en los archivos disponibles.
+- **Cambios realizados:** Se creó la carpeta `css`, se corrigió la estructura del sitio, se agregó una navegación adaptable a pantallas pequeñas, estados de foco visibles y tarjetas de proyectos en una columna para celulares. También se mantuvieron tres proyectos y se mejoró la presentación visual. No se agregó información de contacto privada.
+- **¿Qué comprendí?:** La estructura de carpetas y las rutas de los archivos deben coincidir para que el sitio se vea correctamente al publicarlo. También es importante probar la navegación y la lectura en pantallas de distintos tamaños.
+- **Prueba pendiente:** La publicación en GitHub Pages y la comprobación en ventana privada deben realizarse después de volver a subir estos archivos.
